@@ -45,3 +45,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
+<<<<<<< HEAD
+=======
+salut
+>>>>>>> e7809c263fb5c77ac6ae6b59e7f40a80deeae277
